@@ -1,2 +1,4 @@
-# GreedyAIHomework
-GreddyAI NLP课程的作业
+# 贪心学院NLP课程的Porject作业
+### 项目作业1
+1. 分词工具的编写   
+2. 简单问答系统的编写
